@@ -5,6 +5,8 @@ import com.rakib.address.service.AddressService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+
+
 //@RefreshScope //used if read value from property file upto date
 @RestController
 @RequestMapping("/api/v1/address")

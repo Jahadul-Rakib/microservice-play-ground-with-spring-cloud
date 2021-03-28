@@ -6,6 +6,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.io.IOException;
+
+
 //@RefreshScope //used if read value from property file upto date
 @RestController
 @RequestMapping("/api/v1/student")
